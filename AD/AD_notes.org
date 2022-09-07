@@ -1,0 +1,172 @@
+#+TITLE: Ad Noter 1. Semester Efterår 2022
+#+AUTHOR: Henrik Riskær
+#+DATE: Sidst opdateret 9. sep. 2022
+
+* Om kurset og eksamen
+[[https://learnit.itu.dk/course/view.php?id=3021307][Link til learnIT-page]]
+**   Undervisere
+***   Jonas Fritsch
+- Lektor i Interaktionsdesign
+- Sektionschef Design Research
+- Leder af AIR Lab
+- Primær forskning inden for affektivt interaktionsdesign
+- Mail: frit@itu.dk, Kontor: 4D14/AIR
+*** Signe Yndigegn
+- Lektor i Avancerede Designprocesser
+- Co-linjeleder for KDDIT
+- Primær forskning inden for sundhed og velfærdsteknologi
+- Mail: signelouise@itu.dk, Kontor: 4D27
+*** Anna Vallgårda
+- Datalog fra DIKU
+- PhD i Interaktionsdesign ITU
+- Underviser og specialevejleder på Interaktionsdesign
+- Leder af IxD Lab
+- akav.dk, instagram: ixdlab_itu, ixdlab.itu.dk
+** TAs
+*** Christoffer Tardum
+*** Mira Krogstrup
+*** Linnea Aggebo
+*** Nicklas Ravn
+*** Amanda Barlebo
+
+** Hvad er en avanceret designproces?
+En ikke-præskriptiv tilgang til designprocesser. Ikke-lineært. En avanceret designproces hander om at kunne udvælge og argunemtere for de designvalg man tager. Skal lære at begrebsliggøre og artikulere designviden. Skal lære at italesætte den gennemgåede designproces.
+
+**   Kursets læringsmål
+- Planlægge, udføre og reflektere over digitale designprocesser, baseret på designteori
+- Vælge mellem passende designmetoder og teknikker baseret på en viden om brugspraksis og designprocessens karakter
+- Diskutere og reflektere over brugen af analytiske og praktiske designværktøjer i processen ud fra et brugerorienteret designperspektiv
+- Udvikle og analysere funktionelle prototyper og reflektere over brugen af interaktive teknologier som et designmateriale
+- Præsentere indsigter fra deres designproces, argumentere for, evaluere og kritisk vurdere ..... TO BE CONTINUED
+**   Kursets opbygning
+Der er forelæsninger og øvelser. Øvelserne bliver overvejende brugt på projektarbejde med sin gruppe, mens forelæsningerne præsenterer ny teori. Visse øvelseslektioner bruges dog på øvelser givet til forelæsning. Derudover er der designkritik-lektioner, der foregår som en peer review session med andre grupper og en underviser, hvor man præsenterer sit design, og derefter får feedback. Der er 3 designkritik-sessions i løbet af semestret.
+***   Expo
+Expoet foregår i Atrium den 5. december, og er en fremvisning af sit design, hvor vejlederne giver feedback. På dette tidspunkt er det blevet bestemt, hvilken underviser der skal eksaminere jer, så lyt meget til den feedback de kommer med til expoet.
+***   Forelæsninger
+Forelæsnignerne kommer ikke til at være tekstnære. Det forventes man har gjort sig bekendt med litteraturen til undervisningen.
+***   Øvelser
+Specifikke øvelser ligger oftest om fredagen. De involverer litteratursøgning, prototyping mm. De vil virke lidt som en løbende foreberedelse til det, du har gang i i projektet pt. Mød op til dem.
+*** Vejledning
+Man kan få løbende vejledning af sine TAs, men der er skemalagte vejlednings-sessions. BRUG DEM!
+*** Kritik
+Præsenter dit design, og få peer feedback, samt feedback fra en underviser
+*** Projektet
+I modtager et designbrief. Der skal gennemgåes en hel designproces. Både proces og produkt er lige vigtigt. I skal forholde jer analytisk til begge dele. I skal finde og arbejde med stakeholders (brugere/eksperter). I skal vise I kan gå fra teori til praksis, så at sige.
+*** Eksamen
+2 skriftlige afleveringer: en 4 siders ACM-artikel, der præsenterer design, og indeholder related work, interaktionskritik, beskrivelsen af design, billeder af det, hvilke designværdier der er designet ud fra, samt en diskussion. Og en 5-7 siders procesrefleksion: analyser jeres designproces. Hvad var blindgyderne og udfordringerne. Det skal alt sammen være teoretisk funderet, og er altså ikke bare "egen mening". Deadline er den 22. december. Mundtlig eksamen ligger mellem 11-20 januar, og er en gruppeeksamen i hele pensum, med individuel bedømmelse.
+
+* Første Lektion: Fire bølger af HCI
+Underviser: Anna Vallgårda & Signe Yndigegn
+**  Nomenklatur - Vigtige begreber
+*** Removal as a Method
+Evalueringsteknik, der går ud på at fjerne en teknologi, og undersøge hvad det er brugeren så mangler i sin hverdag
+*** Ting etnografi
+Prøve at observere teknologiens brug gennem teknologiens POV (?)
+*** Autoetnografi
+What
+*** Interaktionskritikker
+Tag et stykke design og piller der fra hinanden, og prøver at forstå hvad der egentlig foregår i det
+*** Implosionsundersøgelser
+Hvad er ting lavet af? hvilke materialer?  Drage designeren til ansvar for hele produktet dvs. inklusiv materielle forbrugspraksisser, primærproduktion osv. Virker appen kun til den nyeste smartphone, og har man således udelukket en del af befolkningen fra sit design? Er skidtet lavet i en sweatshop?
+**  Introduktion
+
+**  De Fire Bølger
+Inden for Human Computer Interaction (HCI), tales der om fire bølger, som indikerer nævneværdige ændringer i måden vi designer interaktive teknologier, med større eller mindre fokus på brugeren, arbejdet og privatlivet.
+
+Hver bølge har sine svar på disse spørgsmål:
+- Hvordan bliver 'brugeren' defineret/forstået af designeren
+  + Har indvirkning på valget af design- og undersøgelsesmetoder
+- Hvilken slags viden bliver værdsat
+  + Har indvirkning på valg af evalueringsmetoder
+
+*** Første Bølge
+Brugeren blev anset som værende en kognitiv model der teoretisk kunne kortlægges og designes til. Brugerinddragelse var derfor ikke relevant. Fokus lå primært på teknologien, og at effektivisere arbejde med den.
+
+Der herskede en prositivstisk tilgang til designet; Der var en tro på at der var én sandhed, som kunne opdages gennem rationelle metoder, og uden nogen pragmatisk undersøgelse.
+Teknologiske artefakter fandtes kun (i følge designeren) i én kontekst, nemlig arbejde. Der var meget lidt variation i maskiner.
+
+*** Anden Bølge
+Mere fokus på brugere. Mindre arrogance hos designeren. Inddragelse af brugere gennem fokusgrupper og in-situ interviews
+
+I anden bølger dropper designeren lidt af sin arrogante, altvidende tilgang til teknologi.
+Man indser at brugeren kan være relevant at inddrage i designprocessen. Her begynder man så småt med observationer, in-situ interviews og brugerdrevede designmetoder.
+
+Fokus for designet er stadig hovedsageligt at effektivisere arbejde, men har nu også fokus på tifredshed hos brugeren.
+
+
+Mest nævneværdigt for anden bølge er, at brugeren for første gang bliver anset som vidende
+
+*** Tredje Bølge
+Teknologien rykker ind i hjemmet og privatlivet, og begynder at involvere personligt udtryk. Fokus på æstetik. Der skal designes til privatliv såvel som arbejdsliv, da der nu er et overlap mellem de to. Stor opmærksomhed på brugeroplevelse, både følelsesmæssigt og æstetisk. Holistisk menneskebillede, der ikke kun forholder sig til "hoveder". Opmærksomhed på etisk ansvar og forsvarlighed
+*** Fjerde Bølge (nutid)
+Entanglement-theory. Indtil nu har man designet på relativt simple bruger-kontekst-situationer. Her er der fokus på menneskers vækselvirkning mellem mennesker og teknologier, mellem mennesker og andre mennesker, og mellem teknologier og andre teknologier. Det etiske ansvar er endnu højere. Designeren skal forholde sig til alle bruger-kontekster. Designeren gør teknologien til en social aktør. Mennesker og objekter er uadskillelige, og er sammenfiltrede (entanglement). Man anerkender at etik og politik er inkluderet i alle designs. Potentielle misbrug?
+** Vigtig litteratur
+    - Frauenberger, C. (2019): When Second Wave HCI Meets Third Wave Challenges
+    - Bødker S. (2006): Entanglement HCI: The Next Wave
+* Anden Lektion: Designprocessens dynamik
+Underviser: Jonas Fritsch
+** Nomenklatur - Vigtige begreber
+*** Pluriverse
+*** Design situation
+Refererer til både årsagen til at designprocessen startes, og konteksten for designarbejdet
+*** Dilemmaer
+En designproces er karakteriseret ved et dilemma. Et dilemma kan kun løses ved et kreativt spring - ved at overgå nutidens begrænsninger (kæft en gang lort).
+*** Enabling constraints
+Når alt er muligt og intet er givet, har kreativiteten ingen friktion, og således intet at bygge på. Man skal se begrænsninger og afgrænsninger som en mulighed for at bygge designløsninger ud fra.
+*** Divergens og konvergens
+En designproces kan opstilles cyklisk. Man divergerer længere og længere væk fra kernen i et forsøg på at brainstorme og finde kreative løsninger, og på et tidspunkt begynder man at konvergere tilbage mod kernen med en løsning, der langsomt går fra det abstrakte til det konkrete. Denne cykliske proces består i brede strøg af analyse og syntese.
+Analyse sker i divergensen; man adskiller et komplekst problem til små problemer.
+Syntese sker i konvergensen; man samler aller stykkerne igen, og skaber en konkret designløsning.
+*** Ekstern representation
+mockup/model. Vigtig for en designproces. Alle har forskelige ontologier(verdenssyn), og ser derfor ting på forskellige måder. Brug eksterne repræsentationer under designprocessen for at visualisere dine tanker, i stedet for at få folk til at prøve at læse dem.
+** Introduktion
+
+** Thoughtful Interaction Design
+'To design digital artefacts is to design people's lives'
+
+Iflg. Löwgren & Stolterman kan der aldrig eksistere en perfekt designproces, med et perfekt resultat, eftersom designs kompleksitet ikke tillader fuldstændigt rationelle tilgange (se forelæsning 1 om første bølge af HCI).
+
+En designer skal altid forholde sig kritisk og refleksivt til design, både under processen og retrospektivt, men isærdeleshed under processen.
+
+***   Ontologi
+Læren om væren. Vores forståelse af virkeligheden. Dette har selvfølgelig en stor effekt på design.
+
+
+*** Epistemologi
+Læren om viden og erkendelse. Hvad vi tror er muligt at vide om virkeligheden
+
+
+** Designprocessens Dynamik
+Design er en social proces, som består af 3 typer aktører:
+*** Designer
+Enhver person der er med i udtænkningen eller skabelsen af et produkt eller en løsning.
+*** Klient
+Hvem end der har kontrakteret designeren eller design-teamet til at løse en specifik problemstilling eller levere et specifikt produkt.
+*** Bruger
+Dem, der ender med at ibrugtage designløsningen.
+
+Disse tre aktørtyper kan have overlap. For eksempel kan klientet også godt være slutbruger, eller måske er det designeren selv der har opstillet problemstillingen for sig selv, og agerer således både som klient, bruger og designer på én gang.
+
+** Designs for the Pluriverse
+Anne-Marie Wilis (2006) siger, at design og designere har en vekselvirkning på hinanden. Altså er design en deterministsisk social konstruktion.
+
+Escobar siger disse 5 prætentiøse ting:
+
+- Design er overalt
+- Social kontekst er vigtigt for et succesfuldt design
+- Økologi er vigtigt. Vi skal designe til en levedygtig verden
+- Alle designer
+- Design og kultur er vigtigt for teknologisk innovation
+
+Hvis noget af dette ikke lyder som om det giver sig selv, så læs endelig videre.
+
+
+** Vigtig Litteratur
+- Löwgren, J., & Stolterman, E. (2004). Thoughtful interaction design: A design perspective on information technology. MIT Press. Kapitel 1 & 2, pp. 1-41.
+ 
+- Escobar, A. (2018). Designs for the Pluriverse. Duke University Press. Introduction, pp. 1-21.
+
+
+* Semesterprojekt - fortsat
+** Tema: Design forfra (?)
+Vi lever i en verden, hvor digitale systemer, services og produkter er sammenfil
