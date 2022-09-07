@@ -1,0 +1,24 @@
+#+TITLE: Uic Noter 1. Semester Efterår 2022
+#+AUTHOR: Henrik Riskær
+#+DATE: Sidst Opdateret 10. sep. 2022
+
+* Om Kurset og Eksamen
+[[https://learnit.itu.dk/course/view.php?id=3021308][Link til learnIT page]]
+
+
+* Første Lektion: Introduktion til kurset
+* Anden Lektion: Kontekst
+
+** To synsvinkler for kontekst
+
+*** Positivistisk Perspektiv
+- Handler om repræsentation
+
+Det er simpelt hen bare en form for information. Kontekst anses som værende en stabil variabel, der er adskillelig fra aktivitet.
+*** Konstruktivistisk Perspektiv
+- Handler om interaktion
+
+ Kontekst opstår kun når to eller flere ting interagerer. Det er en relativ egenskab, der defineres dynamisk. Konteksten kan således ændre sig ved hver interaktion. Der er ingen garanti for at konteksten forbliver den samme.
+
+*** Eksempel: Selvkørende Bil
+Repræsentationel kontekst handler om de stabile faktorer. Hvor bred er vejen? Hvor hurtigt må man køre i området? Hvor lang er bilen? Hvad er vigereglerne? I princippet kan man skabe en selvkørende bil baseret på repræsentationel kontekst alene. Der er dog som oftest andre biler, hvilket introducerer den interaktionelle kontekst. Her bliver kontekst skabt på baggrund af hvad de andre biler gør. Hvis de skifter vognbane skal der måske reageres? Er der nogen der vil overhale? Hvad skal bilen gøre når nogen krydser vejen? I princippet kan man designe en selvkørende bil kun på baggrund af den interaktionelle kontekst, men det vil gøre det enormt svært for ikke-autonome biler, samt cyklister og bilister, at navigere i trafikken. Okay nevermind, Dourish siger de to perspektiver er inkompatible. Glem alt jeg sagde.

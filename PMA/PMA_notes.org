@@ -1,0 +1,43 @@
+#+TITLE: Programming Mobile Applications Notes
+#+SUBTITLE: 1. semester, autumn 2022
+#+AUTHOR: Henrik Riskær
+#+DATE: Updated 09-01-2022
+
+
+* About the course and exam info
+[[https://learnit.itu.dk/course/view.php?id=3021313][LearnIT page]]
+** Teachers and TAs
+*** Vasiliki Tsaknaki
+- Associated Professor
+- Digital Crafts in HCI
+- Wearable Technology for wellbeing and health
+- Embodied IxD
+*** Tomas Sokoler
+- Associate Professer ITU
+- IxD, AIR, PIT labs
+- Augmentable Reality
+- Tangible Interfaces
+- New types of I/O
+*** Edith Terte Andersen
+*** Louie (Marie Louise Hornelund Meyer)
+*** Anita (Anitamalina Regitse Tranberg)
+
+
+** Goals and ILOs
+
+** Litterature/resources
+** Exam Info & Deadlines
+*** 3 individual assignments
+- 1st deadline week 38
+- 2nd deadline week 39
+- 3rd deadline week 41
+Written reports deadling January 5th
+
+*** 1 group assignment
+- Week 43: Group Project starts
+- Week 44: 3 concepts brainstorm in class
+- Week 49: Demo in class (basically finished product)
+- Code submission deadline December 15th
+- Written reports deadline January 5th
+
+* First lecture 09-01-2022: Course Introduction
