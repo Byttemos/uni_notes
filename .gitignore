@@ -11,3 +11,19 @@ node_modules
 #ignore gitignore maybe?
 *.txt
 
+
+
+#ignore whatever trash I end up putting in here
+*.mp3
+
+*.mp4
+
+*.db
+
+*.png
+
+*.jpg
+
+*.gif
+
+*.wav
