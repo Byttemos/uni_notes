@@ -1,0 +1,12 @@
+#+TITLE: Forventningsafstemning
+#+LATEX_CLASS_OPTIONS: [landscape]
+#+LATEX_HEADER: \usepackage[a4paper]{anysize}
+#+OPTIONS: toc:nil
+
+| PRODUCTION UNIT  | Fysisk Prototype           | Notedeling                  | Projekt vi selv er stolte af         |
+| LEARNING UNIT    | Opsamling på forelæsninger | Hjælpe hinanden med opgaver | Faglig sparring i andre fag          |
+| SOCIAL UNIT      | Vi skal have det sjovt     | Vi skal drikke øl           | Sommerhustur til skrivning og hygge? |
+| WORK ENVIRONMENT | Overvejende møde på ITU    | Hovedbiblioteket            | Jeg holder gerne klubhus             |
+
+
+

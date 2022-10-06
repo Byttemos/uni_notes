@@ -1,0 +1,19 @@
+#+TITLE: Brainstorm
+
+
+* Lytte til satelitter
+** Undersøge den community
+** Man kan danne et lille billede ud fra den frekvens satelitten udsender
+* Tinder som medierende teknologi
+** Folk bruger måske mere Tinder til at dyrke sig selv end rent faktisk at finde partnere
+** Tinder som navigation
+** Tinder som promoveringsværktøj
+** Tinder som gamification
+* Kunst gennem AI
+** Neural transform
+* Self-tracking gennem LifeSum
+* Yodel brugsmønstre
+* Loyalty-apps til dagligvarebutikker
+* Hvilken kontekst bruger folk Wolt?
+* Spotify Brugsmønstre
+*

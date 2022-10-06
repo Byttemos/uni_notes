@@ -1,0 +1,13 @@
+#add filenames and/or extensions here to have git ignore them when committing and pushing
+
+#ignore whatever shit orgmode files might spit out
+*.html
+*.pdf
+*.tex
+
+#ignore React Native node-modules folder
+node_modules
+
+#ignore gitignore maybe?
+*.txt
+

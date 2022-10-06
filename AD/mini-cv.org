@@ -1,0 +1,33 @@
+#+TITLE: Mini Cv
+#+AUTHOR: Henrik Riskær
+#+DATE: 9. September 2022
+#+OPTIONS: toc:nil
+
+
+Dette er en oversigt over mine interesser og egenskaber, samt mine ambitioner og forventninger til projektarbejdet.
+
+* Hard Skills
+- 3D-modellering og 3D-print
+  + Jeg er veløvet i Fusion360, og har blandt andet brugt det til at designe mit eget spisebord
+  + Jeg har min egen 3D-printer, som jeg også har brugt flittigt i tandem med Fusion
+- Programmering
+  + Jeg har programmeret en del på min bachelor, og kan navigere en god håndfuld af de populære sprog og paradigmer - både front- og backend
+- Fotografi og let redigering
+  + Jeg er hobbyfotograf, og går sjældent nogen steder uden mit kamera. Jeg er derfor også letøvet i let fotoredigering, primært colourgrading
+- Håndværk/prototyping
+  + Jeg har arbejdet en del med protoyping med både 3D-printere, CNC-fræsere og lasercuttere
+  + Jeg kan svejse, operere en bordsav og lignende produktionsmaskiner, hvilket jeg blandt andet brugte til mit spisebord
+
+
+- Webudvikling- og design
+  + Udover at have arbejdet som webmaster i 6 mdr for et startup, så har jeg også ifm. min fotografi-hobby, en hjemmeside med tilhørende webshop
+- Skrivning
+  + Jeg har før min bachelor gået på læreruddannelsen i 3 år, og har færdiggjort undervisning som både dansk- og engelsklærer
+
+* Soft Skills
+- Energisk
+- Entusiastisk
+- Glad for øl
+- Alsidig
+* Learning ambitions
+ Jeg forventer en studiegruppe der kan arbejde struktureret og seriøst når det gælder, men også giver plads til fadøl og ballade når DET gælder! Øvelsestimerne ser jeg som et supporttilbud man kan tage hvis nødvendigt, men ellers ser jeg intet problem med at lægge møder der måske passer bedre for gruppen mht. arbejde mm. Jeg sigter efter en ambitiøs, fleksibel og sjov projektgruppe, med andre ord. Desuden har jeg en stor ambition om at projektet, rent lavpraktisk, bliver udarbejdet i LaTeX, eventuelt gennem Overleaf. Det er dog ikke et krav at folk skal være hajer til det på forhånd, da det basale er hurtigt at lære. Jeg kunne særligt godt tænke mig at arbejde med noget der kræver en fysisk prototype vi kan designe og bygge.

@@ -166,6 +166,33 @@ Hvis noget af dette ikke lyder som om det giver sig selv, så læs endelig vider
  
 - Escobar, A. (2018). Designs for the Pluriverse. Duke University Press. Introduction, pp. 1-21.
 
+* Tredje Lektion: Designerens rolle, etik og værdier
+Underviser: Anna Vallgårda
+** Vigtig Litteratur
+- Haraway, D. (2012). Awash in Urine: DES and Premarin® in Multispecies Response-ability. Women’s Studies Quarterly, 40(1/2), 301–316.
+- Verbeek, P.-P. (2008). Cyborg intentionality: Rethinking the phenomenology of human--technology relations. Phenomenology and the Cognitive Sciences, 7(3), 387-395.
+
+
+** Typer af design
+*** Undlade at designe
+Hvis designet gør mere skade end gavn. Løser det problemet, eller kvantificerer det bare? (BMI er en beregningsbar del af et problem, men det siger intet om sundhed)
+*** Bricolage/tinkering
+
+*** Spekulativt/kritisk design
+*** Design produkt til brug
+
+** Minimalisme
+Minimalisme er en måde at teknologisk gemme kompleksitet væk. Når facebook er skrubbet ren for ubehagelige billeder, siger vi at en algoritme har fjernet dem. Men denne algoritme er blevet trænet af mennesker, som har siddet til under minimiumsløn, og set på disse billeder på vores vegne. At fjerne friktion fra et design, betyder bare at den friktion gør sig gældende for en anden målgruppe.
+
+** Haraway's tis
+*** Cyborg
+Man kan ikke behandle det biologiske og teknologiske isoleret. Vi er alle cyborgs, og det har vi altid været. Mennesket har nærmest altid eksisteret og fungeret i tandem med teknologi
+*** Making kin
+Vi skal ikke kun tænke på os selv og dem som giver os værdi. Vi skal kigge på den måde alle er forbundede - mennesker såvel som dyr. Man kan skabe relationer mellem mennesker og dyr der ellers ikke er forbundede, gennem design (f.eks DES hormonet, som blev givet til kødkvæg, hunde og spædbørn)
+*** Becoming with (tilblivelse)
+Man udvikler sig altid i en kontaktzone - i mødet med det ubehagelige. Man skal ud og blive lidt bange for at forstå verden
+*** Response-ability
+Den der har evnen har pligten, men vi skal også give andre muligheden for at handle
 
 * Semesterprojekt - fortsat
 ** Tema: Design forfra (?)
