@@ -1,0 +1,15 @@
+#+TITLE: Reflection on first assignment
+#+SUBTITLE: Programming Mobile Applications, 1st. semester 2022
+#+AUTHOR: Henrik Riskær Povlsen - 20743
+#+OPTIONS: toc:nil
+
+
+* Introduction
+
+The first assignment had focus on displaying an image and some text related to that image, along with exploring options in terms of buttons. I wanted to try and play around with some interactivity through the Alert functionality. I made a simple app that displayed the image of a cow, and made a "moo" alert everytime you pressed the "moo-button".
+
+** The easy stuff
+I found it fairly easy to import and implement the alert-functionality in the button, as well as styling the button and image. Quick google searches gave me the answers I was looking for. Seemingly the React Native documentation is pretty good.
+
+** The challenging stuff
+Seeing as I have little to no experience with the Javascript language, I had no idea what half of the template code meant or did. This lead to a lot of headaches related to either "nothing works and I don't know why" or "everything works and I don't know why". Both scenarios were equally frustrating

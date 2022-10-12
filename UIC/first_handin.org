@@ -1,0 +1,20 @@
+#+TITLE: Case Study Research Design
+#+SUBTITLE: First Handin - Users in Context |
+#+SUBTITLE: Group Number: 10
+#+AUTHOR: Anine Jakobsen,
+#+AUTHOR: Emil Voight,
+#+AUTHOR: Emma Frandsen,
+#+AUTHOR: Henrik Riskær,
+#+AUTHOR: Louis Larsen
+#+OPTIONS: toc:nil
+
+
+* Introduction
+** Research Question
+* Phenomena Description
+* Sampling
+* Cultural Probing and Semi-structured Interviews
+* Thematic Analysis
+* Project Roadmap
+* Potential Challenges
+* Ethical Considerations
