@@ -10,11 +10,32 @@
 
 
 * Introduction
+We are interested in studying the phenomenon of second screening, where the user, while consuming one media, turns to another.
+
+We would like to study a group of users in their context consuming entertainment on one screen in a private sphere while using a secondary screen for purposes we are yet to understand. By analyzing data from the study, we hope to understand their motivation for second screening whether intentional or not.
+We hope that our results can inspire further studies of the phenomenon, or of the motivations behind why this particular target group or others turn to second screening. We imagine that our findings can be useful in marketing contexts, where opportunities to take advantage of an audience’s use of second screening might appear.
+We live in a multiscreen environment, and we interact with screens all day long. Data shows that contemporary TV viewing involves simultaneous multi-screen usage (Alesi, 2020), and that the amount of people who second screen is high and increasing across generations worldwide (Ortiz-Luis).
+
+According to statistics from YouGov, done in 2020, multi screening while watching TV is most popular in Spain, Mexico, Italy, Poland, and Denmark (Alesi, 2020). Countries like China, Australia and the USA are also represented (ibid.), and when looking at survey data from Global Web Index, presented by Ortiz-Luis from Digital Turbine, there is also a great number of users in the Middle East and Africa (Ortiz-Luis). The lowest number of second screening users from the YouGov statistics is Germany with ‘only’ 59 percent of adults who second screens during a week, while the highest number is 78 percent in Spain (Alesi, 2020). Second screening is indeed growing in popularity worldwide - significantly seen in Denmark with 72 percent of adults seconding screen during a week (ibid.).
+
+Our interest within second screening bloomed from our own experiences with this way of consuming media. We are fully aware that we do second screening – and sometimes we even intend to second screen when putting on a show, sport etc. And let us face it; if someone should be able to multitask screens, who other than generations, like ours, that were born into the digital age?
+And this is where it gets interesting - because in the mentioned statistics above, we noticed a great number of people from generations defined as ‘Digital Immigrants’ who second screen (Hayes, 2022). They did not grow up with the internet, and they had to adapt to the practice of digital technologies over time (Ibid.).
+
+So how, when, and why do digital immigrants second screen?
+We cannot find the answers in previous studies, so we are curious to study them ourselves. For doing so, we define the following research question.
+
 ** Research Question
 * Phenomena Description
 * Sampling
-* Cultural Probing and Semi-structured Interviews
+* Cultural Probing & Semi-structured Interviews
 * Thematic Analysis
 * Project Roadmap
-* Potential Challenges
-* Ethical Considerations
+* Potential Challenges & Ethical Considerations
+Gathering empirical evidence on a more or less subconscious, and to a large degree intimate and personal, action like second screening will no doubt prove difficult, without skewing the results due to bias. This section aims to shed light on these challenges as well as our attempts to mitigate bias as much as possible.
+
+As previously mentioned, out intention is to gather empirical evidence through a cultural probe, designed to enter the informant's private sphere with minimal intervention. One of our greatest concerns regarding this approach is that we risk skewing the result due to the mere fact that the informant knows they are getting probed. The fact that the informant is suddenly made aware of the concept of second screening, along with the fact that someone is currently seeking information about their habits in that regard, might deter them from second screening in instances, where they would usually do it. This concern is based on the informants' conscious actions. Another concern is based on the informants' subconscious actions, namely the fact that they might not realize that they second screen, thus making the documenting process difficult. While the first concern primarily addresses the conscious choice to not second screen due to the fact that the informant is "observed", there is also the issue of pride. There is a likelihood of the informants not wanting to admit that they second screen, which can lead to them not documenting it to the desired degree.
+
+In regards to ethical considerations, we don't necessarily find this probe significantly problematic, especially not if we anonymize the informants. However, seeing as we are seeking to peek into someone else's private life, the informants might be intimidated by that. It is therefore imperative to emphasize that the information gathered will not be published in any way that exposes the informant or their behavioural patterns.
+
+** Mitigating bias
+In terms of mitigating these risks of bias, we aim to design our cultural probe in a way, that interferes as little as possible with the informant during their TV-session. The probe, consisting of a templated journal, is therefore intended to be filled out after the session is over, as to not make second screening a chore, and to make sure the journaling won't be a type of second screening in and of itself. Furthermore, we will make sure to emphasize our dedication to keeping the informants anonymous, as well as make sure they understand that there is no shame in second screening, and our probe does not have any agenda in terms of spreading awareness, and is rather a purely academical curiosity. We believe that skewed results due to bias will be impossible to avoid, but we also firmle believe that taking these measures will mitigate the bias to an acceptable degree for the scope of this research.
