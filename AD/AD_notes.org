@@ -197,3 +197,14 @@ Den der har evnen har pligten, men vi skal også give andre muligheden for at ha
 * Semesterprojekt - fortsat
 ** Tema: Design forfra (?)
 Vi lever i en verden, hvor digitale systemer, services og produkter er sammenfil
+* Eksamensforelæsning
+** Vi har eksamen med Signe Yndigegn
+** Eksamensform
+Eksamensrapporten består af en 4 siders ACM artikel, samt en 5-7 normalsiders procesrefleksion i åbent format
+Den mundtlige eksamen er en gruppeeksamen med individuelle præsentationer og gruppediskussion.
+** Mundtlig eksamen
+Varer 20 minutter per studerende incl. votering (40 min for os)
+Individuelle præsentationer efterfulgt af gruppediskussion
+5 min per person til individuelle præsentationer
+Medbring prototyper
+Præsenter brugssituation med video

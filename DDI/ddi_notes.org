@@ -1,0 +1,25 @@
+#+TITLE: Designdrevet Innovation
+#+AUTHOR: Henrik Riskær
+#+options: toc:nil
+
+
+* Forelsning 1: Introduktion til kurset
+** Eksamensform
+Skriftlig gruppeeksamen
+- 5 sider per gruppemedlem
+- Der skal redegøres for hvem der har skrevet hvad
+  + Det er dog ikke så strikst
+** Læringsmål
+
+** Fase 1: Innovationsteori og relation til case partner
+Første 6 forelæsnigner fokuserer på relevant teori og opstart af samarbejde med case partner.
+
+** Fase 2: Fremdrift i projektet og frem mod formidling
+Næste 6 forelæsninger handler mere om vejledning af projekter og feedbacksessioner
+
+** Vigtige datoer:
+- 14-04.2023: Præsentation for casepartnere
+- 23-05-2023, klokken 14:00: Aflevering af eksamensopgave
+** Caseintroduktioner
+Mere information kan findes på LearnIT, hvor alle cases er opstillet på PDF one-pagers.
+Her føler dog en kort opridsning.
